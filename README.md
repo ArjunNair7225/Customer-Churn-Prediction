@@ -1,4 +1,4 @@
-#Customer Churn Prediction Dashboard
+###Customer Churn Prediction Dashboard
 
 An end-to-end Machine Learning project that predicts customer churn
 probability using Logistic Regression and deploys an interactive
@@ -76,3 +76,4 @@ Future Improvements
 Author
 
 Arjun Nair Machine Learning & Data Science Enthusiast
+
